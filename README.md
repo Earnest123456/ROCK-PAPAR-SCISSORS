@@ -1,2 +1,2 @@
-# ROCK-PAPAR-SCISSORS
-this is a python program  using random module
+# PYTHON project assignment 1
+this is a python program  
